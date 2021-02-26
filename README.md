@@ -1,16 +1,16 @@
-# Test Your Speed
+# Test Your Reaction
 
 ## Setup a directory
 Open terminal/command line, cd into your desired directory to store the project folder
 
 ## Download the project
 ```
-git clone https://github.com/Hongyanlee0614/Vue-Test-Your-Speed.git
+git clone https://github.com/Hongyanlee0614/Vue-Test-Your-Reaction.git
 ```
 
 ## Open up the folder using code editor
 ```
-cd Vue-Test-Your-Speed
+cd Vue-Test-Your-Reaction
 ```
 
 ## Project setup
